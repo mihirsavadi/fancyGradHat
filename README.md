@@ -9,3 +9,5 @@ Because of the large amount of time I have before I start, I wanted a bit of a c
 So instead I just opted to get a 32x32 off-the-shelf LED matrix from adafruit, a teensy 4.0, the SmartMatrix SmartLED shield for the Teensy 4.0, and make the whole thing mostly a software project, all for under $150. Abstraction truly is a marvelous thing. I do however want to integrate a battery power and charging management circuitry within the cap assembly, as well as some way to manipulate the display - either via accessible buttons (which would provide limited functionality), or integrate an ESP32 which would host a server broadcasted over its own local WiFi network which I would use to command the Teensy4.0 via my phone or whatever else.  
 
 Work for this is still in progress, so please forgive the general emptiness of this repository.  
+
+[This](https://nathanpetersen.com/2018/11/11/gradled-mini-prototype-modular-discrete-led-display/) project parallels this one quite a bit. 
