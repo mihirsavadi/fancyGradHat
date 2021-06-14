@@ -10,4 +10,18 @@ So instead I just opted to get a 32x32 off-the-shelf LED matrix from adafruit, a
 
 Work for this is still in progress, so please forgive the general emptiness of this repository.  
 
-[This](https://nathanpetersen.com/2018/11/11/gradled-mini-prototype-modular-discrete-led-display/) project parallels this one quite a bit. 
+[This](https://nathanpetersen.com/2018/11/11/gradled-mini-prototype-modular-discrete-led-display/) project parallels this one quite a bit. Follow the USB and peripherals setup from here
+
+
+Alternative idea, cos who cares about features i just want this to be cool:
+- use this fpga https://numato.com/product/mimas-spartan-6-fpga-development-board/
+- get 1024 of these led's for a 32x32 grid https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_0805-Red-LED-Iv-61mcd-Typ-atIF-20mA_C72037.html
+- use x2 of these cool shift register led driver thing - it controls negative end of each row, u drive top mosfet circuitry - https://www.mouser.com/ProductDetail/STMicroelectronics/STP16CPC26PTR?qs=GkDVaEP5dcsHBCBm3pftPw%3D%3D
+- use these 1A P channel mosfets to control the positive rail. needs to be p channel since positive rail (high side) is switched, while the led driver controls low side check if already have (https://lcsc.com/product-detail/MOSFET_TOSHIBA_SSM3J338R-LF_TOSHIBA-SSM3J338R-LF_C146352.html)
+- add a teensy, esp32 or other microcontroller. This will connect to user interface and memory, like an sd card or wtvr. When user selects new image or video, it will prompt fpga that will load new data into itself and display it (or on loop if its a gif or whatever). Need to figure out encoding of data, and a python or wtvr that can decode images into this encoded data.
+- USE RP2040 Microcontroller!!!!!! Use one core to control matrix and other core to do other shit like deal with fetching data etc
+- use this shift register for each of the columns!!! https://www.mouser.com/ProductDetail/STMicroelectronics/HCF4021YM013TR?qs=wkiPY8TIIKfARqeH6MSyJw%3D%3D that way can use microcontroller!!
+
+[ignore below]
+use a bunch of these muxes maybe? if needed idk: https://www.mouser.com/ProductDetail/Texas-Instruments/MUX506IDWR?qs=7EBvPakHacVyv2nASLrMzg%3D%3D
+
