@@ -75,4 +75,6 @@ Note that each of the blocks in the flow chart are high level descriptions of ev
 
 Also note that the STP16CPC26PTR LED Display Driver IC's have a maximum clock frequency of 30Mhz - attention will have to paid to this during implementation of the FSM which is driven by the Arduino MKR VIDOR 4000's on-board 48Mhz clock.
 
+It should be noted that the STP16CPC26PTR LED Display Driver IC's also do not have a dedicated reset port or functionality. So, on every positive edge received on the reset input of the FSM, in addition to resetting it's state, the FSM will also have to load the LED Display Driver IC's with 32-bits of 0's in order to effectively 'clear' the its memory.
+
 One cool thing about this entire system is that you could theoretically achieve around 30,000-ish frames per second of animation speed. However because of the 16bit millisecond hold-time parameter as part of my data format standardization, the maximum frame rate would be exactly 1000 frames per second. This is still insane, and unlikely to be fully exploited with the current 63 frame memory ceiling. But, as described earlier, the memory size/address space can be scaled up later depending on remaining FPGA resources in order to take advantage of this high frame rate.  
