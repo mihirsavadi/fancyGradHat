@@ -19,6 +19,10 @@ Going this route has a lot of tradeoffs - a lot more complexity; monochromic med
 
 An example of a really cool project by Nathan Peterson that closely paralleled this one can be found here - [https://nathanpetersen.com/2018/11/11/gradled-mini-prototype-modular-discrete-led-display/](https://nathanpetersen.com/2018/11/11/gradled-mini-prototype-modular-discrete-led-display/).
 
+## Quick Notes on Various Things
+
+- One of the most critical parts of this build - the STP16CPC26PTR LED driver by STMicroelectronics - went from being in stock (in the 1000's) from all major distributors, to virtually extinct in the matter of a few weeks, and I had no idea! Restock estimates were for mid to late 2022, despite STMicro's website labelling the IC as active. I had to nab the last 10 that was in stock at newark.com, a distributer which I've never used, in order to make sure Im not screwed or have to make major redesigns. This is a great lesson in semi-conductor sourcing. In all fairness the IC is quite old and serves a niche market with its bare bones parallel-ish serial interface. Its a shame that most newer equivalent IC's work with i2c or SPI which is a greater pain to set up and has lass fine grain control - the advantage obviously is industry standardization and the lack of need for such fine grain control. The embedded world is not friendly to FPGA/custom hardware designers!
+
 ## System Architecture
 
 ### Microcontroller, Peripherals and User Interfacing
