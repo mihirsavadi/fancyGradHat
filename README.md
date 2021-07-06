@@ -17,7 +17,7 @@ Below are screenshots of the renderings of the PCB. To explore the hardware furt
 
 Going this route has a lot of tradeoffs - a lot more complexity; monochromic media only; relatively low resolution. But, given the low prices of PCB fabrication and assembly services from jlcpcb.com and pcbway.com, and the use of mostly commodity parts, this approach is relatively cheaper. Also, because of the use of the FPGA, the entire signal processing architecture is extremely flexible, and the microcontroller is free to do a whole host of other tasks - all of which allow a huge margin for feature-expandability with no change in hardware. Finally, despite the significant extra complexity, I much prefer (and enjoy) the freedom of implementation and control that comes with this approach, as opposed to having to spend unreasonable amounts of time energy and patience rummaging through opaque documentation of some one particular DSP microcontroller. I'm also fairly comfortable with digital design, and I have a year until I graduate. I don't anticipate this to be too painful. We'll see.
 
-An example of a really cool project by Nathan Peterson that closely paralleled this one can be found here - [https://nathanpetersen.com/2018/11/11/gradled-mini-prototype-modular-discrete-led-display/](https://nathanpetersen.com/2018/11/11/gradled-mini-prototype-modular-discrete-led-display/).
+An example of a really cool project by Nathan Peterson that closely parallels this project can be found here - [https://nathanpetersen.com/2018/11/11/gradled-mini-prototype-modular-discrete-led-display/](https://nathanpetersen.com/2018/11/11/gradled-mini-prototype-modular-discrete-led-display/).
 
 ## Quick Notes on Various Things
 
