@@ -1,0 +1,5 @@
+- routing is 2 layer and without consideration of EMI -- signal integrity throughout the board wont be guaranteed, and
+likely to be extremely unreliable, causing complete failure of the board. This is especially likely because of the
+numerous high(ish) speed parallel lines between the FPGA PCI connector, LED matrix Driver IC's, and the LED matrix.
+Revision 2 should employ a 4 layer PCB instead with proper grounding.
+
