@@ -10,7 +10,7 @@ improvements:
 
 See images of 'rev2_*.jpg' in ./pics_vids_figures if images below are not rendering (possibly because of bad links).
 
-![alt text](./pics_vids_figures/rev2_1.jpg)
-![alt text](./pics_vids_figures/rev2_2.jpg)
-![alt text](./pics_vids_figures/rev2_3.jpg)
-![alt text](./pics_vids_figures/rev2_4.jpg)
+![alt text](../pics_vids_figures/rev2_1.jpg)
+![alt text](../pics_vids_figures/rev2_2.jpg)
+![alt text](../pics_vids_figures/rev2_3.jpg)
+![alt text](../pics_vids_figures/rev2_4.jpg)
