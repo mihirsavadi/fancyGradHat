@@ -1,0 +1,27 @@
+Comment, Designator, Footprint, Quantity, Supplier and Reference
+ADXL343, U17, LGA-14, 1, https://www.mouser.com/ProductDetail/584-ADXL343BCCZ
+LCSC-C127509 6x6mm Tactile Switch, SW2-15, SW_PUSH_1P1T_NO_6x6mm_H5mm, 16, https://lcsc.com/product-detail/Tactile-Switches_Korean-Hroparts-Elec-K2-1102SP-C4SC-04_C127509.html
+0603 Red LED, D1-1030, LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder, 1030, https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Yongyu-Photoelectric-SZYY0603R_C434419.html
+0603 resistor 1kΩ, R1 R2 R3 R4 R5 R6 R7 R8 R9 R10 R11 R12 R13 R14 R15 R16 R17 R18 R19 R20 R21 R22 R23 R24 R25 R26 R27 R28 R29 R30 R31 R32 R33 R34 R35 R36 R37 R38 R39 R40 R49 R50 R51 R52 R53 R54 R55 R56 R65 R66 R67 R68 R69 R70 R71 R72 R81 R82 R83 R84 R85 R86 R87 R88 R97 R98 R99 R100 R101 R102 R103 R104 R113 R114 R115 R116 R117 R118 R119 R120 R129 R130 R131 R132 R133 R134 R135 R136 R145 R146 R147 R148 R149 R150 R151 R152 R163 R164 R168 R169 R179 R180 R182 R183 R184 R185 R186 R190 R191 R192 R193 R194 R195 R196 R197 R198 R199 R200, R_0603_1608Metric_Pad0.98x0.95mm_HandSolder, 119, https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.html
+0603 resistor 100Ω, R41 R42 R43 R44 R45 R46 R47 R48 R57 R58 R59 R60 R61 R62 R63 R64 R73 R74 R75 R76 R77 R78 R79 R80 R89 R90 R91 R92 R93 R94 R95 R96 R105 R106 R107 R108 R110 R111 R112 R121 R122 R123 R124 R125 R126 R127 R128 R137 R138 R139 R140 R141 R142 R143 R144 R153 R154 R155 R156 R157 R158 R159 R160, R_0603_1608Metric_Pad0.98x0.95mm_HandSolder, 64, https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603FR-07100RL_C105588.html
+0603 resistor 1.2kΩ, R165, R_0603_1608Metric_Pad0.98x0.95mm_HandSolder, 1, https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0603WAF1201T5E_C22765.html
+0603 resistor 10kΩ, R177 R178 R181 R188, R_0603_1608Metric_Pad0.98x0.95mm_HandSolder, 5, https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FH-Guangdong-Fenghua-Advanced-Tech-RS-03K103JT_C73809.html
+0603 resistor 27Ω, R161, R_0603_1608Metric_Pad0.98x0.95mm_HandSolder, 2, https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0603F27R0TS_C2907021.html
+0603 resistor 4.7kΩ, R167, R_0603_1608Metric_Pad0.98x0.95mm_HandSolder, 2, https://lcsc.com/product-detail/Chip-Resistor-Surface-Mount_YAGEO-RC0603JR-074K7L_C105428.html
+0603 capacitor 10uF, C20 C21 C22 C24 C25 C28 C29 C30 C31 C32, C_0603_1608Metric_Pad1.08x0.95mm_HandSolder, 11, https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A106MA8NRNC_C2922482.html
+0603 capacitor 100nF, C13 C15 C18, C_0603_1608Metric_Pad1.08x0.95mm_HandSolder, 4, https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_FH-Guangdong-Fenghua-Advanced-Tech-0603B104K250NT_C694249.html
+0603 capacitor 1uF, C1 C2 C3 C4 C5 C7 C8 C12, C_0603_1608Metric_Pad1.08x0.95mm_HandSolder, 9, https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Samsung-Electro-Mechanics-CL10A105KA8NNNC_C5673.html
+0603 capacitor 27pF, C26 C27, C_0603_1608Metric_Pad1.08x0.95mm_HandSolder, 2, https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_Walsin-Tech-Corp-0402N270F500CT_C301974.html
+SN74HCS596PWR_8bit_ShiftReg, U1 U2 U4 U5 U6 U7 U8, TSSOP-16_4.4x5mm_P0.65mm, 8, https://www.mouser.com/ProductDetail/595-SN74HCS596PWR
+Q_PMOS_GSD, Q1 Q2 Q3 Q4 Q5 Q6 Q7 Q8 Q9 Q10 Q11 Q12 Q13 Q14 Q16 Q17 Q18 Q19 Q20 Q21 Q22 Q23 Q24 Q25 Q26 Q27 Q28 Q29 Q30 Q31 Q32, SOT-23, 32, https://lcsc.com/product-detail/MOSFETs_Yangzhou-Yangjie-Elec-Tech-YJL3415A_C699309.html
+Q_NMOS_GSD, Q33 Q34 Q35 Q36 Q37 Q38 Q39 Q40 Q41 Q42 Q43 Q44 Q45 Q46 Q47 Q48 Q49 Q50 Q51 Q52 Q53 Q54 Q55 Q56 Q57 Q58 Q60 Q61 Q62 Q63 Q64, SOT-23, 32, https://lcsc.com/product-detail/MOSFETs_Yangzhou-Yangjie-Elec-Tech-YJL2312A_C699290.html
+NCP692MN33T2G_3.3_LDO, U11 U12 U13 U14, DFN-6-1EP_3x3mm_P0.95mm_EP1.7x2.6mm, 5, https://www.mouser.com/ProductDetail/863-NCP692MN33T2G
+USB_C_Receptacle, J1, USB_C_3.1_10137062-00021LF, 1, https://www.mouser.com/ProductDetail/649-10137062-00021LF
+RP2040, U10, MCU_RP2040_QFN40P700X700X90-57N, 1, https://www.mouser.com/ProductDetail/Raspberry-Pi/RPI-Chip-RP2040-7-500?qs=QNEnbhJQKvaZH1bqQMV2YA%3D%3D
+W25Q128JVS, U15, SOIC-8_5.23x5.23mm_P1.27mm, 1, https://www.mouser.com/ProductDetail/454-W25Q128JVSIQ
+TP4056_1SLiIonCharger, , TP4056_1SLiIonCharger, 1, https://lcsc.com/product-detail/Battery-Management-ICs_TOPPOWER-Nanjing-Extension-Microelectronics-TP4056-42-ESOP8_C16581.html
+ABLS-12.000MHZ-B4-T, , Crystal_ABLS-12.000MHZ-B4-T, 1, https://www.mouser.com/ProductDetail/815-ABLS-12.0M-T
+Battery_Cell, B1, BatteryHolder_Keystone_1042_1x18650, 2, https://www.mouser.com/ProductDetail/Keystone-Electronics/1042?qs=%2F7TOpeL5Mz4qPdWi9tuLKw%3D%3D
+Fuse, , FuseHolder_Keystone_3550-2, 1, https://www.mouser.com/ProductDetail/Keystone-Electronics/3550-2?qs=sGAEpiMZZMu2MsBvHNoAnGw%2FOVzy1yRP
+Micro_SD_Card_Det, , microSDCardConnector_TF01A, 1, 
+SW_SPDT, , SW_SPDT_CK-JS102011SAQN, 1, https://www.mouser.com/ProductDetail/611-JS102011SAQN

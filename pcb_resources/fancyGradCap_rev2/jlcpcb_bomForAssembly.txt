@@ -1,0 +1,9 @@
+Comment, Designator, Footprint, Quantity
+LCSC-C127509 6x6mm Tactile Switch, SW2-17, 6x6mm tactile Switch, 16
+JS102011SAQN Slider switch, SW1, unknown, 1
+0603 Red LED, D1-1030, 0603_D, 1030
+
+Comment, Designator, Footprint, Quantity, Supplier and Reference
+ADXL343, U17, LGA-14, 1, https://www.mouser.com/ProductDetail/584-ADXL343BCCZ
+LCSC-C127509 6x6mm Tactile Switch, SW2-15, SW_PUSH_1P1T_NO_6x6mm_H5mm, 16, https://lcsc.com/product-detail/Tactile-Switches_Korean-Hroparts-Elec-K2-1102SP-C4SC-04_C127509.html
+0603 Red LED, D1-1030, LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder, 1030, https://lcsc.com/product-detail/Light-Emitting-Diodes-LED_Yongyu-Photoelectric-SZYY0603R_C434419.html
