@@ -11,3 +11,10 @@ This has been done many times in the past by people from all over. What makes th
 See ./wiki/rev1_design.md for a copy paste of the old README that I wrote when the only revision was rev1. See ./wiki/rev2_design.md for some images of the 3D renderings for rev2 -- I'm too lazy to do a whole write up of rev2, but the design is complete and comprehensive (given no post build testing), with all the design files available in ./pcb_resources/fancyGradCap_rev2, including a pdf of the schematic (which is extremely well commented). This documentation should be sufficient to explain the functionality of everything.
 
 After much sadness I decided to ultimately drop this project primarily due to the cost of parts and ordering the board. Additionally I re-evaluated the amount of time I have to totally flesh out the project before my graduation commencement day and it was not shaping out to be very practical. I might pick this back up after I start work post August 2022 however. Until then, the rev2 hardware is pretty much ready to go.
+
+Below are some images from rev2 :
+
+![alt text](./pics_vids_figures/rev2_1.jpg)
+![alt text](./pics_vids_figures/rev2_2.jpg)
+![alt text](./pics_vids_figures/rev2_3.jpg)
+![alt text](./pics_vids_figures/rev2_4.jpg)
